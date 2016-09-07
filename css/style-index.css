@@ -258,10 +258,7 @@ body::-webkit-scrollbar-thumb:hover {
 @media screen 
   and (min-width: 318px) 
   and (max-width: 426px) { 
-      .sm-display-screen{
-          max-height: 460px;
-          min-height: 460px;
-      }
+     
       p{
           font-size: 10px;
       }
