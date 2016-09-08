@@ -153,6 +153,7 @@ body::-webkit-scrollbar-thumb:hover {
   background-color: #9BD7FE;
   background-color: #B5E0FC;
   background-color: #91E5E4;
+  backgroun-color:transparent;
   margin : 0 auto 0;
   display:block;
   margin-top:-68%;
