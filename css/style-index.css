@@ -153,7 +153,6 @@ body::-webkit-scrollbar-thumb:hover {
   background-color: #9BD7FE;
   background-color: #B5E0FC;
   background-color: #91E5E4;
-  backgroun-color:transparent;
   margin : 0 auto 0;
   display:block;
   margin-top:-68%;
@@ -172,7 +171,7 @@ body::-webkit-scrollbar-thumb:hover {
     z-index: 10;
     background-color: #FCFFFD;
     padding: 20px;
-    margin-top:25%;
+    margin-top:0%;
 }
 .projects{
     margin: 0 auto 0;
@@ -281,4 +280,21 @@ body::-webkit-scrollbar-thumb:hover {
       h5{
           font-size: 13px;
       }
+}
+#face { stroke-width: 3px; stroke: #fff; fill: #ade2e3;
+stroke-width: 2;}
+#hour, #min, #sec { 
+  stroke-width: 1px;
+  fill: #fff;
+  fill:#fff;
+  stroke: #fff;
+  stroke:#eee;
+}
+#sec { stroke: #f55; }
+#circle{ fill: #f55;}
+.daste_lamp_down{
+  transform: rotate(25deg);
+}
+.daste_lamp_up{
+  transform: rotate(-40deg);
 }
